@@ -1,0 +1,12 @@
+INSTALLATION STEPS :
+
+Copy zip file and Unzip file on your local server.
+Put this file inside WAMP or XAMPP server's htdoc's folder.
+Start xampp control panel and start mysql and apache and go to Admin of Mysql.
+Database Configuration--
+  Open phpmyadmin
+  Create Database named project1​.
+  Import database project1.sql from downloaded folder(inside database)
+  Edit dbconnection file.change username,password and database name;
+    Default user is root,password is null and database name is project1.
+Open Your browser put inside "http://localhost/Online-Exam-System/"
