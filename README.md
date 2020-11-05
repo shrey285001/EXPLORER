@@ -1,6 +1,7 @@
 # EXPLORER
 This Project is build in the GOV-Tech-Thon 2020,We have tried to build solution for online exam with integration of Machine Learning.
-The Domain of this solution is under the Unspervised Test Tool
+The Domain of this solution is under the Unspervised Test Tool.
+
 Unsupervised Test Platform / Tool
 Problem Description: Currently, Computer based exams / tests are supervised at designated exam centres. Due to Covid-19 situation, it would be ideal to provide the exams online and with the same degree of integrity
 
