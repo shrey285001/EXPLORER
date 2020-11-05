@@ -1,4 +1,0 @@
-Admin configuration is in 'headdash.php' --- director of institute
-Teacher configuration is in 'dash.php' --- professors of college
-User configuration is in 'acccount.php' --- students of the college
-home page managed in 'index.php'
